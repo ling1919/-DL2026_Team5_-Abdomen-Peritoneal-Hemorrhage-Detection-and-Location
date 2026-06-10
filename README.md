@@ -5,6 +5,7 @@
 
 ## 2. 檔案說明
 * `DenseNet_121.ipynb`：DenseNet-121 訓練與測試程式碼。
+* `best_densenet_model.pth` ：基於 DenseNet-121 訓練完成之最佳 PyTorch 模型權重檔，針對腸胃道出血點具備最高之召回率 (Recall)。
 * `ResNet18_GastrointestinalBleeding.ipynb`：ResNet-18 訓練與測試程式碼。
 * `深度學習_Final_EfficientNet_B0.ipynb`：EfficientNet-B0 訓練與測試程式碼。
 
