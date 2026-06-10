@@ -17,4 +17,4 @@
 1. 將本專案 Clone 至本機，或下載 `.ipynb` 檔案至 Google Colab 開啟。
 2. 確保環境已安裝 `torch`, `torchvision`, `scikit-learn` 等套件。
 3. 透過上述 Kaggle 連結下載資料集，並放置於指定的 `raw_data` 資料夾內。
-4. 依序執行 Jupyter Notebook 中的儲存格，即可重現訓練與測試結果。# -DL2026_Team5_-Abdomen-Peritoneal-Hemorrhage-Detection-and-Location
+4. 依序執行 Jupyter Notebook 中的儲存格，即可重現訓練與測試結果。
