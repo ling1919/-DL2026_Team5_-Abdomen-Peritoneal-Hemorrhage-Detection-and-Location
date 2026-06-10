@@ -4,9 +4,9 @@
 本專案利用深度學習 CNN 模型（ResNet-18, DenseNet-121, EfficientNet-B0），針對腸胃道內視鏡影像進行「出血病灶 (Lesion)」與「正常 (Normal)」的二元分類，目標為最大化出血召回率 (Recall)，以輔助臨床診斷。
 
 ## 2. 檔案說明
-* `DenseNet_model.ipynb`：DenseNet-121 訓練與測試程式碼。
-* `ResNet_model.ipynb`：ResNet-18 訓練與測試程式碼。
-* `EfficientNet_model.ipynb`：EfficientNet-B0 訓練與測試程式碼。
+* `DenseNet_121.ipynb`：DenseNet-121 訓練與測試程式碼。
+* `ResNet18_GastrointestinalBleeding.ipynb`：ResNet-18 訓練與測試程式碼。
+* `深度學習_Final_EfficientNet_B0.ipynb`：EfficientNet-B0 訓練與測試程式碼。
 
 ## 3. 資料集說明
 因版權與容量考量，本專案不直接提供圖片檔案。
